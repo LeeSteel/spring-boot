@@ -7,6 +7,9 @@ dependency descriptors. For example, if you want to get started using Spring and
 JPA for database access include the `spring-boot-starter-data-jpa` dependency in
 your project, and you are good to go.
 
+官方的Starter其实不包含代码，主要是把gradle/maven依赖聚合在一起
+具体实现代码在spring-boot-project/spring-boot-autoconfigure
+
 For complete details see the
 https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#using-boot-starter[reference documentation]
 
